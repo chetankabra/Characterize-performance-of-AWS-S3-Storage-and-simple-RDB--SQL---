@@ -1,0 +1,30 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+2015-06-25T16:20:24.010Z,-16.2642,167.6077,48.56,5.1,mb,,118,4.502,1.23,us,us10002llm,2015-06-25T16:34:17.736Z,"26km SE of Lakatoro, Vanuatu",earthquake
+2015-06-25T15:41:20.290Z,-10.4106,152.049,31.44,5.1,mb,,67,4.919,1.33,us,us10002lkf,2015-06-25T15:54:07.176Z,"153km E of Samarai, Papua New Guinea",earthquake
+2015-06-25T15:01:07.880Z,-4.7667,134,29.16,5.2,mb,,85,2.533,1.08,us,us10002lk8,2015-06-25T15:16:55.238Z,"113km NNW of Dobo, Indonesia",earthquake
+2015-06-25T14:54:19.000Z,63.1301,-150.9448,131.9,2.7,ml,,,,0.32,ak,ak11633674,2015-06-25T17:43:46.750Z,"99km NNW of Talkeetna, Alaska",earthquake
+2015-06-25T14:48:38.110Z,36.6554985,-120.8673325,6.42,3.16,ml,55,137,0.06031,0.12,nc,nc72471991,2015-06-25T17:03:50.548Z,"39km SSW of South Dos Palos, California",earthquake
+2015-06-25T14:10:28.350Z,36.0262,-97.2517,7.13,2.7,ml,,60,0.282,0.44,us,us10002lk5,2015-06-25T15:27:48.590Z,"9km N of Langston, Oklahoma",earthquake
+2015-06-25T13:44:13.050Z,-6.1049,131.1378,64.94,5.4,mb,,67,1.872,1,us,us10002ljm,2015-06-25T13:58:49.865Z,"184km WSW of Tual, Indonesia",earthquake
+2015-06-25T13:24:47.430Z,45.4828333,-123.453,52.498,3.22,ml,81,62,0.1548,0.2,uw,uw61046476,2015-06-25T17:42:30.322Z,"26km NW of Yamhill, Oregon",earthquake
+2015-06-25T12:59:01.760Z,-21.5309,-173.7087,10,5.3,mb,,52,4.308,1.47,us,us10002ljf,2015-06-25T13:19:57.265Z,"130km E of `Ohonua, Tonga",earthquake
+2015-06-25T12:54:24.730Z,35.8187,-97.4706,4.85,2.8,mb_lg,,104,0.025,0.4,us,us10002lje,2015-06-25T13:50:21.850Z,"7km SSW of Guthrie, Oklahoma",earthquake
+2015-06-25T10:31:55.770Z,16.8462,-97.8594,52.73,5,mb,,152,0.982,0.97,us,us10002lj4,2015-06-25T11:02:52.199Z,"15km NE of Santa Maria Zacatepec, Mexico",earthquake
+2015-06-25T07:50:46.600Z,18.9962,-64.9791,27,2.8,Md,8,252,0.64139711,0.11,pr,pr15176004,2015-06-25T15:53:28.735Z,"72km N of Charlotte Amalie, U.S. Virgin Islands",earthquake
+2015-06-25T07:00:03.700Z,18.2271,-67.5329,63,2.6,Md,9,259.2,0.16349338,0.2,pr,pr15176003,2015-06-25T15:02:35.185Z,"32km WSW of Rincon, Puerto Rico",earthquake
+2015-06-25T06:58:06.850Z,36.2773,-97.5122,2.67,3.1,mb_lg,,61,0.442,0.3,us,us10002lia,2015-06-25T07:17:49.275Z,"20km W of Perry, Oklahoma",earthquake
+2015-06-25T06:53:15.320Z,32.908,-116.2603333,8.3,2.57,ml,61,57,0.01033,0.21,ci,ci37407720,2015-06-25T15:23:10.980Z,"27km ENE of Pine Valley, California",earthquake
+2015-06-25T06:11:19.500Z,18.3355,-67.0998,102,2.8,Md,7,180,0.13115403,0.15,pr,pr15176002,2015-06-25T14:13:51.825Z,"6km SSE of Moca, Puerto Rico",earthquake
+2015-06-25T06:03:07.250Z,36.7108,-98.2874,5,3,mb_lg,,91,0.111,0.48,us,us10002li3,2015-06-25T06:35:38.856Z,"7km SE of Cherokee, Oklahoma",earthquake
+2015-06-25T04:08:20.700Z,19.1776,-64.3544,29,3.1,Md,4,334.8,0.99712997,0.28,pr,pr15176001,2015-06-25T12:10:49.969Z,"88km NNE of Road Town, British Virgin Islands",earthquake
+2015-06-25T02:53:13.960Z,8.3227,-82.8661,10,5.1,mb,,116,0.249,1.17,us,us10002lhn,2015-06-25T13:41:45.040Z,"3km SSW of Finca Corredor, Panama",earthquake
+2015-06-25T02:45:06.110Z,-37.0922,-74.0119,10.35,4.5,mwr,,169,2.676,0.79,us,us10002lhl,2015-06-25T03:10:36.289Z,"63km WNW of Arauco, Chile",earthquake
+2015-06-25T01:21:24.690Z,17.3678,40.5128,10.41,4.6,mb,,100,6.227,0.52,us,us10002lhg,2015-06-25T09:23:58.984Z,"186km WNW of Farasan, Saudi Arabia",earthquake
+2015-06-25T00:13:28.360Z,7.9765,-77.8088,10,4.6,mb,,92,2.328,0.93,us,us10002lha,2015-06-25T08:15:59.105Z,"23km SSW of Yaviza, Panama",earthquake
+2015-06-24T22:32:20.000Z,61.6623,-151.9764,115.3,5.8,ml,,,,0.59,ak,ak11632992,2015-06-25T17:21:05.127Z,"103km W of Willow, Alaska",earthquake
+2015-06-24T22:18:22.910Z,-30.3392,-71.3665,56.31,4.5,mb,,161,0.518,1.05,us,us10002lgu,2015-06-25T06:20:56.510Z,"32km NNW of Ovalle, Chile",earthquake
+2015-06-24T22:06:28.730Z,-35.2949,-178.8757,10,5,mb,,160,3.206,1.38,us,us10002lgm,2015-06-25T06:08:56.904Z,"East of the North Island of New Zealand",earthquake
+2015-06-24T21:53:25.480Z,1.6401,126.459,10,4.7,mb,,99,1.252,0.81,us,us10002lgg,2015-06-25T05:55:57.989Z,"138km NW of Kota Ternate, Indonesia",earthquake
+2015-06-24T21:30:27.030Z,-18.8916,-67.7913,209.84,4.2,mb,,46,1.723,0.76,us,us10002lg6,2015-06-25T05:32:55.854Z,"104km SW of Poopo, Bolivia",earthquake
+2015-06-24T21:05:25.410Z,17.3502,40.4159,10,4.4,mb,,97,6.245,0.66,us,us10002lg0,2015-06-25T05:08:06.937Z,"194km WNW of Farasan, Saudi Arabia",earthquake
+2015-06-24T19:12:54.350Z,41.7742,88.4362,34.96,5.4,mb,,51,6.679,0.91,us,us10002lfa,2015-06-24T19:54:37.642Z,"142km SSW of Turpan, China",earthquake

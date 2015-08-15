@@ -1,0 +1,15 @@
+# Name : Kabra Chetan Rajesh
+#Student ID : 1001152872
+
+"""References Used
+http://aws.amazon.com/developers/getting-started/python/
+http://boto.readthedocs.org/en/latest/
+http://aws.amazon.com/documentation/
+http://boto.readthedocs.org/en/latest/ec2_tut.html
+http://boto.readthedocs.org/en/latest/rds_tut.html
+http://blog.echolibre.com/2009/11/memcache-and-python-getting-started/4/ - Author David Coallier
+
+Data Set Used :
+http://www.geos.ed.ac.uk/abs/Weathercam/station/data.html
+
+"""

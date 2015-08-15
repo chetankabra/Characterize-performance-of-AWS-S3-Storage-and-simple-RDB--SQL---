@@ -1,0 +1,7 @@
+=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2015.06.20 18:47:12 =~=~=~=~=~=~=~=~=~=~=~=
+Event Log: Writing new session log (SSH packets mode) to file: putty.log
+Event Log: Looking up host "ec2-52-10-35-70.us-west-2.compute.amazonaws.com"
+Event Log: Connecting to 52.10.35.70 port 22
+Event Log: We claim version: SSH-2.0-PuTTY_Release_0.64
+Event Log: Failed to connect to 52.10.35.70: Network error: Connection timed out
+Event Log: Network error: Connection timed out

@@ -1,0 +1,76 @@
+
+ Total time taken to Inserted Large Dataset =
+467.625772953
+ Total Number of Tuples
+69422
+
+ File Uploaded Successfully
+ Total Time Taken for Uploading File to S3 Bucket
+0.977092981339
+
+ Select the Number of Queries you need to Execute From Below Option :
+ 1 = 1K or More Queries
+ 2 = 5K or More Queries
+ 3 = 20K or More Queries
+
+ Total Time taken for executing 1k or more  queries:
+43.1811299324
+
+ Executing 1k or more queries
+ Total queries executed
+1014
+ Total Time taken for executing 1k or more  queries ( Memcache ):
+0.826448917389
+
+ Executing 20k or more queries
+ Total queries executed
+45335
+ Total Time taken for executing 20k or more  queries:
+3609.59713078
+
+ Executing 5k or more queries
+ Total queries executed
+5320
+ Total Time taken for executing 5k or more  queries ( Memcache ):
+4.44822692871
+
+---Using Memcache ---
+
+ Select the Number of Queries you need to Execute From Below Option :
+ 1 = 1K or More Queries
+ 2 = 5K or More Queries
+ 3 = 20K or More Queries
+
+ Executing 1k or more queries
+ Total queries executed
+1014
+ Total Time taken for executing 1k or more  queries ( Memcache ):
+0.873222112656
+ Connectioned sucessfully
+ Executing 20k or more queries
+ Memcache
+ Total queries executed
+22756
+ Total Time taken for executing 20k or more  queries ( Memcache ):
+19.2926440239
+ Connectioned sucessfully
+ Executing 5k or more queries
+ Total queries executed
+5320
+ Total Time taken for executing 5k or more  queries ( Memcache ):
+4.62273001671
+
+-- Limiting the query
+
+ Select the Number of Queries you need to Execute From Below Option :
+ 1 = 1K or More Queries
+ 2 = 5K or More Queries
+ 3 = 20K or More Queries
+
+ Enter the Number of limit on Query :
+200
+ Total queries executed
+1014
+ Total Time taken for executing 1k or more  queries:
+43.1515669823
+
